@@ -1,0 +1,27 @@
+#outline{
+ font-style: italic;
+ background-color: chocolate;
+}
+body{
+ background-color:rgba(0, 128, 0, 0.563);
+ border-style: dotted;
+ text-align: center;
+ margin-top: 50px;
+ margin-left: 50px;
+ font-style: italic;
+}
+.css{
+ padding: 20px;
+background-image:url(download.jpg)
+}
+.syntax{
+ background-image:url(download2.jpg);
+ padding-top: 10px;
+ padding-bottom: 10px;
+ border-top: 40px solid rgba(165, 42, 42, 0.266);
+}
+.output{
+ background-image:url(download\ 3.jpg) ;
+ padding-top: 10px;
+ border-top:20px solid red
+}
